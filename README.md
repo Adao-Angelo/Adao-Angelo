@@ -27,3 +27,4 @@
 ### Falling in love with technology and changing people's lives with technology 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaobegginer&exclude_repo=github-readme-stats,anuraghazra.github.io)
