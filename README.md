@@ -6,8 +6,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://blog.com)
 
 
-![Adão GitHub stats](https://github-readme-stats.vercel.app/api?username=adaobegginer&show_icons=true&theme=dracular)
-
+![Adão GitHub stats](https://github-readme-stats.vercel.app/api?username=adaobegginer&show_icons=true&theme=darck)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaobegginer&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ### Technologies I work with
 
 
@@ -27,4 +27,4 @@
 ### Falling in love with technology and changing people's lives with technology 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaobegginer&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
