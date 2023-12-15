@@ -5,8 +5,7 @@
 [![linkedl](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A3o-jo%C3%A3o-6a1a532a1/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://blog.com)
 
-
-['s GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Adao-Angelo&show_icons=true&theme=dark#gh-dark-mode-only)
+[!['s GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Adao-Angelo&show_icons=true&theme=dark#gh-dark-mode-only)]
 ### Technologies I work with
 
 
