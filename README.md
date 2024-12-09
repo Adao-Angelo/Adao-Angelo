@@ -16,7 +16,7 @@ Hi there! I am **Adão Ângelo**, a passionate fullstack developer with experien
 ![Node.js](https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-Nest.Js-05122A?style=flat&logo=nestjs)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=dotnet)&nbsp;
+
 
 #### **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
