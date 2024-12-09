@@ -1,35 +1,68 @@
 
-### Hello I am Adão João 👍
+# Adão Ângelo - Fullstack Developer
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100080991242967)
-[![linkedl](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A3o-%C3%A2ngelo-jo%C3%A3o-238233335/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adaoangel0/)
+### 🌟 About Me  
+Hi there! I am **Adão Ângelo**, a passionate fullstack developer with experience in building high-performance web and mobile applications. I love crafting scalable and elegant solutions using modern technologies and best practices. With a keen eye for usability and responsive design, I aim to create user-friendly and accessible systems.
 
+---
 
-## ⚙️ GitHub Analytics
-<br>
-<p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api?username=Adao-Angelo&show_icons=true&theme=vision-friendly-dark" alt="Eliseu-Gaspar"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adao-Angelo&layout=compact&theme=vision-friendly-dark" alt="Eliseu-Gaspar"/>
+### 💻 Technical Skills
+
+#### **Languages and Frameworks**  
+![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![React.js](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.Js-05122A?style=flat&logo=next.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-Nest.Js-05122A?style=flat&logo=nestjs)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=dotnet)&nbsp;
+
+#### **Databases**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+
+#### **Styling Tools**  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Styled-components](https://img.shields.io/badge/-Styled--Components-05122A?style=flat&logo=styled-components)&nbsp;
+
+#### **DevOps and Tools**  
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
+
+#### **Testing**  
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest)&nbsp;
+
+#### **Other Tools**  
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![RXJS](https://img.shields.io/badge/-RXJS-05122A?style=flat&logo=reactivex)&nbsp;
+![Agile](https://img.shields.io/badge/-Agile-05122A?style=flat&logo=agile)&nbsp;
+![React Query](https://img.shields.io/badge/-React%20Query-05122A?style=flat&logo=reactquery)&nbsp;
+
+---
+
+### 📊 GitHub Analytics  
+![Adão Ângelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adao-angelo&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adao-angelo&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect  
+<p>
+  <a href="https://github.com/Adao-Angelo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ad%C3%A3o-%C3%A2ngelo-jo%C3%A3o-238233335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:adaobegginer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Email"></a>&nbsp;
+  <a href="https://instagram.com/adao-angelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram"></a>&nbsp;
 </p>
- <br>
- <br>
-## Technologies I work with
-  <br>
-<div style="display:inline_block">
-    <img align= "center"  alt ="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align= "center"  alt ="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align= "center"  alt ="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blackk" />
-    <img align= "center"  alt ="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-     <img align= "center"  alt ="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-     <img align= "center"  alt ="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img align= "center"  alt ="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-    <img align= "center"  alt ="sequelise" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align = "center" alt = "PHP" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
-
-
-## Falling in love with technology and changing people's lives with technology 
 
 
 
