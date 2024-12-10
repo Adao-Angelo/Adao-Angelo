@@ -51,8 +51,7 @@ Hi there! I am **Adão Ângelo**, a passionate fullstack developer with experien
 ---
 
 ### 📊 GitHub Analytics  
-![Adão Ângelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adao-angelo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adao-angelo&layout=compact&theme=radical)
+![Adão Ângelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adao-angelo&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adao-angelo&layout=compact&theme=radical)
 
 ---
 
