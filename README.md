@@ -60,7 +60,7 @@ Hi there! I am **Adão Ângelo**, a passionate fullstack developer with experien
   <a href="https://github.com/Adao-Angelo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"></a>&nbsp;
   <a href="https://www.linkedin.com/in/ad%C3%A3o-%C3%A2ngelo-jo%C3%A3o-238233335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:adaobegginer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Email"></a>&nbsp;
-  <a href="https://instagram.com/adao-angelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram"></a>&nbsp;
+  <a href="https://www.instagram.com/adaoangel0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram"></a>&nbsp;
 </p>
 
 
