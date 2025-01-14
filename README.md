@@ -3,8 +3,10 @@
 
 ### 🌟 About Me  
 Hi there! I am **Adão Ângelo**, a passionate fullstack developer with experience in building high-performance web and mobile applications. I love crafting scalable and elegant solutions using modern technologies and best practices. With a keen eye for usability and responsive design, I aim to create user-friendly and accessible systems.
-![](https://komarev.com/ghpvc/?username=Adao-Angelo)
+
 ---
+![](https://komarev.com/ghpvc/?username=Adao-Angelo)
+
 
 ### 💻 Technical Skills
 
