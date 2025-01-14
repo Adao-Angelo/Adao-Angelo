@@ -11,43 +11,43 @@ Hi there! I am **Adão Ângelo**, a passionate fullstack developer with experien
 ### 💻 Technical Skills
 
 #### **Languages and Frameworks**  
-![JavaScript](https://md-badges.vercel.app/api/badge/JavaScript-05122A?icon=javascript&style=flat)&nbsp;
-![TypeScript](https://md-badges.vercel.app/api/badge/TypeScript-05122A?icon=typescript&style=flat)&nbsp;
-![React.js](https://md-badges.vercel.app/api/badge/React.Js-05122A?icon=react&style=flat)&nbsp;
-![Next.js](https://md-badges.vercel.app/api/badge/Next.Js-05122A?icon=nextdotjs&style=flat)&nbsp;
-![Node.js](https://md-badges.vercel.app/api/badge/Node.Js-05122A?icon=nodedotjs&style=flat)&nbsp;
-![NestJS](https://md-badges.vercel.app/api/badge/Nest.Js-05122A?icon=nestjs&style=flat)&nbsp;
-![Python](https://md-badges.vercel.app/api/badge/Python-05122A?icon=python&style=flat)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](#)&nbsp;
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)](#)&nbsp;
+[![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=black)](#)&nbsp;
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white)](#)&nbsp;
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=nodedotjs&logoColor=white)](#)&nbsp;
+[![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)&nbsp;
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)](#)&nbsp;
 
 #### **Databases**  
-![PostgreSQL](https://md-badges.vercel.app/api/badge/PostgreSQL-05122A?icon=postgresql&style=flat)&nbsp;
-![MySQL](https://md-badges.vercel.app/api/badge/MySQL-05122A?icon=mysql&style=flat)&nbsp;
-![MongoDB](https://md-badges.vercel.app/api/badge/MongoDB-05122A?icon=mongodb&style=flat)&nbsp;
-![Redis](https://md-badges.vercel.app/api/badge/Redis-05122A?icon=redis&style=flat)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)](#)&nbsp;
+[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)](#)&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)](#)&nbsp;
+[![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)](#)&nbsp;
 
 #### **Styling Tools**  
-![Bootstrap](https://md-badges.vercel.app/api/badge/Bootstrap-05122A?icon=bootstrap&style=flat)&nbsp;
-![TailwindCSS](https://md-badges.vercel.app/api/badge/TailwindCSS-05122A?icon=tailwindcss&style=flat)&nbsp;
-![SASS](https://md-badges.vercel.app/api/badge/Sass-05122A?icon=sass&style=flat)&nbsp;
-![Styled-components](https://md-badges.vercel.app/api/badge/Styled--Components-05122A?icon=styledcomponents&style=flat)&nbsp;
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)](#)&nbsp;
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)](#)&nbsp;
+[![SASS](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white)](#)&nbsp;
+[![Styled-components](https://img.shields.io/badge/Styled--Components-%23DB7093.svg?logo=styled-components&logoColor=white)](#)&nbsp;
 
 #### **DevOps and Tools**  
-![Docker](https://md-badges.vercel.app/api/badge/Docker-05122A?icon=docker&style=flat)&nbsp;
-![Git](https://md-badges.vercel.app/api/badge/Git-05122A?icon=git&style=flat)&nbsp;
-![GitHub Actions](https://md-badges.vercel.app/api/badge/GitHub%20Actions-05122A?icon=githubactions&style=flat)&nbsp;
-![Heroku](https://md-badges.vercel.app/api/badge/Heroku-05122A?icon=heroku&style=flat)&nbsp;
-![Render](https://md-badges.vercel.app/api/badge/Render-05122A?icon=render&style=flat)&nbsp;
-![Netlify](https://md-badges.vercel.app/api/badge/Netlify-05122A?icon=netlify&style=flat)&nbsp;
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)](#)&nbsp;
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)](#)&nbsp;
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?logo=githubactions&logoColor=white)](#)&nbsp;
+[![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white)](#)&nbsp;
+[![Render](https://img.shields.io/badge/Render-%230046F5.svg?logo=render&logoColor=white)](#)&nbsp;
+[![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white)](#)&nbsp;
 
 #### **Testing**  
-![Jest](https://md-badges.vercel.app/api/badge/Jest-05122A?icon=jest&style=flat)&nbsp;
-![Vitest](https://md-badges.vercel.app/api/badge/Vitest-05122A?icon=vitest&style=flat)&nbsp;
+[![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?logo=jest&logoColor=white)](#)&nbsp;
+[![Vitest](https://img.shields.io/badge/Vitest-%23646CFF.svg?logo=vitest&logoColor=white)](#)&nbsp;
 
 #### **Other Tools**  
-![Figma](https://md-badges.vercel.app/api/badge/Figma-05122A?icon=figma&style=flat)&nbsp;
-![RXJS](https://md-badges.vercel.app/api/badge/RXJS-05122A?icon=reactivex&style=flat)&nbsp;
-![Agile](https://md-badges.vercel.app/api/badge/Agile-05122A?icon=agile&style=flat)&nbsp;
-![React Query](https://md-badges.vercel.app/api/badge/React%20Query-05122A?icon=reactquery&style=flat)&nbsp;
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)](#)&nbsp;
+[![RXJS](https://img.shields.io/badge/RXJS-%23B7178C.svg?logo=reactivex&logoColor=white)](#)&nbsp;
+[![Agile](https://img.shields.io/badge/Agile-%230072B1.svg?logo=agile&logoColor=white)](#)&nbsp;
+[![React Query](https://img.shields.io/badge/React%20Query-%23FF4154.svg?logo=reactquery&logoColor=white)](#)&nbsp;
 
 
 ---
