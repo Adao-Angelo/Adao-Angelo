@@ -1,14 +1,14 @@
 
 # Adão Ângelo - Fullstack Developer
 
-### 🌟 About Me  
+###  About Me  
 Hi there! I am **Adão Ângelo**, a passionate fullstack developer with experience in building high-performance web and mobile applications. I love crafting scalable and elegant solutions using modern technologies and best practices. With a keen eye for usability and responsive design, I aim to create user-friendly and accessible systems.
 
 ---
 ![](https://komarev.com/ghpvc/?username=Adao-Angelo)
 
 
-### 💻 Technical Skills
+### Technical Skills
 
 #### **Languages and Frameworks**  
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](#)&nbsp;
@@ -52,12 +52,12 @@ Hi there! I am **Adão Ângelo**, a passionate fullstack developer with experien
 
 ---
 
-### 📊 GitHub Analytics  
+###  GitHub Analytics  
 ![Adão Ângelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adao-angelo&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adao-angelo&layout=compact&theme=radical)
 
 ---
 
-### 📫 Let's Connect  
+###  Let's Connect  
 <p>
   <a href="https://github.com/Adao-Angelo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"></a>&nbsp;
   <a href="https://www.linkedin.com/in/ad%C3%A3o-%C3%A2ngelo-jo%C3%A3o-238233335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;
