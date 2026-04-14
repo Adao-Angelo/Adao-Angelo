@@ -17,7 +17,6 @@ Hi there! I am **Adão Ângelo**, a passionate fullstack developer with experien
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white)](#)&nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=nodedotjs&logoColor=white)](#)&nbsp;
 [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)&nbsp;
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)](#)&nbsp;
 
 #### **Databases**  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)](#)&nbsp;
@@ -54,16 +53,5 @@ Hi there! I am **Adão Ângelo**, a passionate fullstack developer with experien
 
 ###  GitHub Analytics  
 ![Adão Ângelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adao-angelo&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adao-angelo&layout=compact&theme=radical)
-
----
-
-###  Let's Connect  
-<p>
-  <a href="https://github.com/Adao-Angelo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ad%C3%A3o-%C3%A2ngelo-jo%C3%A3o-238233335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:adaobegginer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Email"></a>&nbsp;
-  <a href="https://www.instagram.com/adaoangel0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram"></a>&nbsp;
-</p>
-
 
 
