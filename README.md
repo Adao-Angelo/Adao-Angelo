@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi! I'm Adão Ângelo, a software developer passionate about solving problems and building efficient solutions. I enjoy working on challenging tasks — the more complex the problem, the more motivated I feel to solve it.
+Hi! I'm Adão Ângelo, a software developer passionate about solving problems and building efficient solutions. I enjoy working on challenging tasks the more complex the problem, the more motivated I feel to solve it.
 
 I focus on creating practical, scalable, and user-friendly systems, always aiming to deliver clean and effective results.
 
